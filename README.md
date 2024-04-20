@@ -1,7 +1,3 @@
-Sure, let's add some content to tailor this guide for your coffee shop app. Below is the modified version:
-
----
-
 # Getting Started with Your Coffee Shop App
 
 Welcome to your new Coffee Shop App built with [React Native](https://reactnative.dev)! This guide will help you get started with running and modifying your app.
@@ -57,6 +53,11 @@ Now that your app is up and running, let's make some modifications.
 ## Congratulations! 🎉
 
 You've successfully run and modified your Coffee Shop app. ☕️
+## Adding a Screenshot
+![Screenshot1](ss1.png)
+![Screenshot2](ss2.png)
+![Screenshot3](ss3.png)
+![Screenshot4](ss4.png)
 
 ### What's Next?
 
@@ -64,18 +65,5 @@ You've successfully run and modified your Coffee Shop app. ☕️
 - To learn more about React Native, visit the [React Native website](https://reactnative.dev).
 - Explore the basics of React Native with the [Getting Started guide](https://reactnative.dev/docs/getting-started).
 
-# Troubleshooting
-
-Encountering issues? Check out the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page for assistance.
-
-# Learn More
-
-To dive deeper into React Native, explore the following resources:
-
-- [React Native Website](https://reactnative.dev) - Learn more about React Native.
-- [Blog](https://reactnative.dev/blog) - Read the latest official React Native blog posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - Visit the open-source GitHub repository for React Native.
-
----
 
 Feel free to adjust any part of this guide to better suit your specific needs! Let me know if you need further assistance.
