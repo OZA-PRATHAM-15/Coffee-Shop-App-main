@@ -54,10 +54,10 @@ Now that your app is up and running, let's make some modifications.
 
 You've successfully run and modified your Coffee Shop app. ☕️
 ## Adding a Screenshot
-![Screenshot1](ss1.png)
-![Screenshot2](ss2.png)
-![Screenshot3](ss3.png)
-![Screenshot4](ss4.png)
+![Screenshot1](ss/ss1.png)
+![Screenshot2](ss/ss2.png)
+![Screenshot3](ss/ss3.png)
+![Screenshot4](ss/ss4.png)
 
 ### What's Next?
 
